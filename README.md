@@ -28,4 +28,5 @@ WebGL 平台，为玩家提供轻量化的线上娱乐体验。
 
 2.百度网盘：
 
-  链接: https://pan.baidu.com/s/1kwRk9fRMEiOFPzGywo1m2w?pwd=d4a3 提取码: d4a3
+  链接: https://pan.baidu.com/s/1caHxyF7BU2DbAYghtw46xg?pwd=1aj2 提取码: 1aj2
+  
